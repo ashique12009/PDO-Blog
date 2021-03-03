@@ -25,3 +25,5 @@ $rows = $database->resultset();
 <?php else : ?>
   <h5>No record found!</h5>
 <?php endif; ?>
+
+<a href="insert_form.php">Insert post</a>
